@@ -1,3 +1,7 @@
+#######
+#otsoy#
+#######
+
 text = open("/Users/otsoy/Desktop/otsoy/python/numb.txt", "r") #directory of file
 data = list(text.read())
 line = len(data)
