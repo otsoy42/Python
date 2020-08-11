@@ -1,6 +1,6 @@
 
 
-num = input("Enter a number: ")
+num = int(input("Enter a number: "))
 
 def factorial1(num):
 	if num == 0:
